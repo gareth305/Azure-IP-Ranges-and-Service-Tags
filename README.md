@@ -1,2 +1,2 @@
-# Azure-IP-Ranges-and-Service-Tags
-Azure IP Ranges and Service Tags – Public Cloud converted from JSON to XML
+# A range of IoCs relating to different threats/platforms
+
